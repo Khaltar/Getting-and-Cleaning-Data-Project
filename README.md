@@ -11,3 +11,5 @@ Run the script. The result will be a tidy_data.txt file that will contain the da
 
 R version used was: 3.2.0 with packages tidyr and dplyr (script includes installation of those packages)
 
+All copyrights to José Pereira, 2015
+
